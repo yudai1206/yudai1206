@@ -17,11 +17,12 @@ Here are some ideas to get you started:
 ## 1. Profile
 * Name: Yudai Kato
 * Location: Kanagawa Pref. Japan
-* Educational Background:Aoyamagakuin University
+* Educational Background:Aoyama Gakuin University
   * 2023-present, School of Global Studies and Collabolation
 
 ## 2. OSM Skills
 * Hot tasking manager: Intermediate Mapper
+* participated in 2025 International Humanitarian Mapathon, Farmland Mapping 2025 Yoron Island, Okinawa, Japan
  * [My Hot tasking manager account](https://tasks.hotosm.org/users/yudai1206)
  * [My OSM account](https://www.openstreetmap.org/user/yudai1206)
 
