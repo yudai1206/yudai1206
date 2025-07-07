@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 * Language
   * Japanese: Native
   * English: Intermediate
-    * TOEIC Listening & Readings Total score 845
+    * TOEIC Listening & Reading Total score 845
     * IELTS Overall 6.0
 
 ## 4. Proposed start date 
