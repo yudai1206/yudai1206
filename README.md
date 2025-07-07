@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 1. Profile
+* Name: Yudai Kato
+* Location: Kanagawa Pref. Japan
+* Educational Background:Aoyamagakuin University
+  * 2023-present, School of Global Studies and Collabolation
+
+## 2. OSM Skills
+* Hot tasking manager: Intermediate Mapper
+ * [My Hot tasking manager account](https://tasks.hotosm.org/users/yudai1206)
+ * [My OSM account](https://www.openstreetmap.org/user/yudai1206)
+
+## 3. Analyst/Reorting/Technical skills
+* TOEIC Listening & Readings Total score 845
+* IELTS Overall 6.0
+
+## 4. Proposed start date 
+* August 2025
+
+## 5. Desired duration of internship
+* 6 Month
+
+## 6. Days per week
+* 2-3days per week
+
+## 7. Proposed monthly stipend
+* 200 EUR/Month
