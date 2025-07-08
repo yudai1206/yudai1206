@@ -49,4 +49,4 @@ Here are some ideas to get you started:
 * 1-2days per week
 
 ## 7. Proposed monthly stipend
-* 200 EUR/Month
+* 250 EUR/Month
