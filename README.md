@@ -35,7 +35,7 @@ Here are some ideas to get you started:
     * TOEIC Listening & Reading Total score 845
     * IELTS Overall 6.0
 * computers
-  * Proficiency in Microsoft 365 (Word, Excel, and PowerPoint),　and Mac OS
+  * Proficiency in Microsoft 365 (Word, Excel, and PowerPoint), and Mac OS
   * Basic operation of Github
 
 
