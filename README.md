@@ -1,3 +1,5 @@
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=yudai1206&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Hi there 👋
 
 <!--
